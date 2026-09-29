@@ -24,7 +24,7 @@ Before saving work, Git must be told who you are so it can label your progress h
 
 
 
-**ERROR**
+**POSSIBLE ERROR**
 
 If we try to run a git commit command on a fresh Git environment before providing an email address flag.
 
@@ -58,7 +58,7 @@ If you share a machine and want these credentials to apply only to this specific
 
 *git config user.email "shrikantsupekar333@gmail.com"*
 
-
+----------------------------------------------------------------------------------------------------------------------------------------
 
 **🚀 Step 2: Connecting a Local Project to an Existing GitHub Repo**
 
@@ -104,7 +104,7 @@ This sequence is used when you already have a README.md file sitting online on G
 
 
 
-**❌ Error : Targeted Path Ambiguity (Wrong URL Setup)**
+**❌ Possible Error : Targeted Path Ambiguity (Wrong URL Setup)**
 
 **• The Scenario:** Attempting a command using a base profile URL like https://github.com to pull down files.
 
@@ -118,7 +118,7 @@ This sequence is used when you already have a README.md file sitting online on G
 
 *git remote set-url origin https://github.com*
 
-
+----------------------------------------------------------------------------------------------------------------------------------
 
 **4: Synchronize Cloud Files Locally (Pulling)**
 
@@ -132,7 +132,7 @@ This sequence is used when you already have a README.md file sitting online on G
 
 In our case we ran this command to pull the **redame.md** file present on oyr repo on GitHub.
 
-
+--------------------------------------------------------------------------------------------------------
 
 **5: Stage and Save Local Changes (Committing)**
 
@@ -148,7 +148,7 @@ In our case we ran this command to pull the **redame.md** file present on oyr re
 
 
 
-**❌ Error: Refspec Main Does Not Match Any**
+**❌ Possible Error: Refspec Main Does Not Match Any**
 
 *error: src refspec main does not match any*
 
@@ -194,7 +194,7 @@ git log --oneline		Local save checkpoint history	Displays a list of your previou
 
 git remote -v		Linked cloud paths			Lists your specific Manual-to-Playwright fetch \& push URLs
 
-
+-------------------------------------------------------------------------------------------------------------------------------
 
 **6. File naming and changing the file name**
 
