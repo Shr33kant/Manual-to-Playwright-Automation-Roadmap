@@ -835,5 +835,12 @@ PRODUCT Oriented→ Detect defects (Evaluate the actual software)
 
 "Are we building the right product?" **→** Evaluate actual product against intended needs
 
+**IMPORTANT**
+
+QA improves the process to help prevent defects.
+QC evaluates the product to detect defects.
+Verification checks whether work products are built correctly against specifications.
+Validation checks whether the actual product meets its intended needs.
+
 ================================================================================
 
