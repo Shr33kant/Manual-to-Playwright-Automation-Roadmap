@@ -78,7 +78,7 @@ This sequence is used when you already have a README.md file sitting online on G
 
 **• Why:** This initializes the terminal inside the correct folder path automatically, preventing file directory navigation mistakes.
 
-
+----------------------------------------------------------------------------------------------------------------------------------------
 
 **2: Initialize the Directory**
 
@@ -90,7 +90,7 @@ This sequence is used when you already have a README.md file sitting online on G
 
 **• Why:** It creates a hidden .git tracking vault inside your folder, transforming it from a standard directory into an active Git repository.
 
-
+------------------------------------------------------------------------------------------------------------------------------------------------
 
 **3: Link to a Specific Repository**
 
